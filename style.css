@@ -14,6 +14,7 @@ body{
 }
 
 .website-title{
+    text-align: center;
     font-family: "Fredoka", sans-serif;
     font-size: 5rem;
     margin: 10px;
@@ -63,4 +64,8 @@ body{
     font-family: "Fredoka", sans-serif;
     font-size: 3rem;
     font-weight: 500;
+}
+
+@media (max-width: 700px){
+
 }
